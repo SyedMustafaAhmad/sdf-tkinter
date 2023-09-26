@@ -10,17 +10,17 @@ On Linux, it usually comes pre-installed.
 ### 2. Create a Python Virtual Environment (venv)
 On Linux,
 ```console
-python3 -m venv name-of-environment
+python3 -m venv venv-name
 ```
 On Windows,
 ```console
-python -m venv name-of-environment
+python -m venv venv-name
 ```
 
 ### 3. Activate the Virtual Environment
 On Linux,
 ```console
-source venv/bin/activate
+source venv-name/bin/activate
 ```
 On Windows (one of these),
 ```console
