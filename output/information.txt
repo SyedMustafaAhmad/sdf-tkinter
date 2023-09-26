@@ -1,0 +1,3 @@
+Information:
+- Images are saves with their timestamp
+- The saved format is .png
