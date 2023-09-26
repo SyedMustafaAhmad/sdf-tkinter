@@ -1,7 +1,7 @@
 # sdf-tkinter
 stable-diffusion v2.1 tkinter application written in python. Meant to be easy to setup, run and use.
 </br>
-<img src="https://raw.githubusercontent.com/SyedMustafaAhmad/sdf-tkinter/main/output/sample-image.png" style="width: 800px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<img src="https://raw.githubusercontent.com/SyedMustafaAhmad/sdf-tkinter/main/output/sample-image.png" style="width: 600px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 </br>
 
 ## Setup
