@@ -2,9 +2,9 @@
 stable-diffusion v2.1 tkinter application written in python
 
 ## Setup
-1. Install [Python](https://www.python.org/downloads/). On Linux, it usually comes pre-installed.
-
-2. Create a python virtual environment.
+### 1. Install [Python](https://www.python.org/downloads/)
+On Linux, it usually comes pre-installed.
+### 2. Create a Python Virtual Environment (venv)
 On Linux,
 ```console
 python3 -m venv name-of-environment
@@ -14,7 +14,7 @@ On Windows,
 python -m venv name-of-environment
 ```
 
-3. Activate the virtual environment
+### 3. Activate the Virtual Environment
 On Linux,
 ```console
 source venv/bin/activate
@@ -26,7 +26,8 @@ venv-name\Scripts\activate.bat
 venv-name\Scripts\Activate.ps1
 ```
 
-4. Install all packages in requirements.txt by using the command,
+### 4. Install all Packages
+In the requirements.txt use the command,
 On Linux,
 ```console
 pip3 install -r requirements.txt
